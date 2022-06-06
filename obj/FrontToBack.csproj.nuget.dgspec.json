@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\Desktop\\FrontToBack\\FrontToBack\\FrontToBack.csproj": {}
+    "C:\\Users\\tu7lmrqat\\Desktop\\FrontToBack\\FrontToBack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\Desktop\\FrontToBack\\FrontToBack\\FrontToBack.csproj": {
+    "C:\\Users\\tu7lmrqat\\Desktop\\FrontToBack\\FrontToBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\Desktop\\FrontToBack\\FrontToBack\\FrontToBack.csproj",
+        "projectUniqueName": "C:\\Users\\tu7lmrqat\\Desktop\\FrontToBack\\FrontToBack.csproj",
         "projectName": "FrontToBack",
-        "projectPath": "C:\\Users\\HP\\source\\Desktop\\FrontToBack\\FrontToBack\\FrontToBack.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\Desktop\\FrontToBack\\FrontToBack\\obj\\",
+        "projectPath": "C:\\Users\\tu7lmrqat\\Desktop\\FrontToBack\\FrontToBack.csproj",
+        "packagesPath": "C:\\Users\\tu7lmrqat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tu7lmrqat\\Desktop\\FrontToBack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tu7lmrqat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -87,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
